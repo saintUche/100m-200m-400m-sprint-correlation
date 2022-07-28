@@ -5,7 +5,7 @@ Uses data from Power of 10 to check correlation of 100m and 200m personal best b
 # Motivation
 The 400m is a sprint albeit a very long one. It is known that a fast 100m and 200m time can allow an athlete to run a faster 400m as they have a higher speed reserve and so are able to move at faster speed without fatiguing in the 400m. 
 I wanted to see if this was true for the best 400m sprinters of all time in the Uk. 
-This is also relevant as the UK has not managed to put together a mens 4x400 team since 2012 and this could help shop why.
+This is also relevant as the UK has not managed to put together a mens 4x400 team since 2012 and this could help show why.
 
 # Power of 10
 Power of 10 is home to all athlete data for british athletes. 
