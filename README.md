@@ -9,12 +9,12 @@ This is also relevant as the UK has not managed to put together a mens 4x400 tea
 
 # Power of 10
 Power of 10 is home to all athlete data for british athletes. 
-There is 400m ranking page which includes links to athlete profiles and best perfomances of all events they have competed in so I was able to grab personal best acorss the 3 events
+There is a 400m ranking page which includes links to athlete profiles and best perfomances of all events they have competed in so I was able to grab personal best across the 3 events.
 
 # libraries
-I used Selenium for webscraping
-pandas for reading and data maniuplation
-matplot lib for plotting charts 
+I used Selenium for webscraping.
+pandas for data reading and data maniuplation.
+matplot lib for plotting charts .
 
 # Findings
 There seemed to almost always be a negative correlation between 100m personal bests and 400m personal bests. This was also the case for 200m and 400m.
