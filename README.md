@@ -1,5 +1,6 @@
 # PowerOf10-400m
-ses data from Power of 10 to check correlation of 100m and 200m personal best between 400m personal bests of the UKs all time top 400m athletes
+Uses data from Power of 10 to check correlation of 100m and 200m personal best between 400m personal bests of the UKs all time top 400m athletes
+To view data switch to Master branch
 
 # Motivation
 The 400m is a sprint albeit a very long one. It is known that a fast 100m and 200m time can allow an athlete to run a faster 400m as they have a higher speed reserve and so are able to move at fater speed without fatiguing in the 400m. 
