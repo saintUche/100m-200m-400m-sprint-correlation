@@ -15,7 +15,8 @@ Used to get the all time best list of 400m athlete performances in the UK.
 # libraries
 Selenium for webscraping.
 pandas for data reading and data maniuplation.
-matplot lib for plotting charts .
+matplotlib for plotting charts.
+Seaborn for correlation matrix
 
 # Findings
 There seemed to almost always be a negative correlation between 100m personal bests and 400m personal bests. This was also the case for 200m and 400m.
@@ -30,6 +31,19 @@ Maybe there are not enough coaoches in the UK that emphasise speed training in 4
 
 
 Note: some athletes may have run their 100m and 200m personal best early on in their career and have not gone back to racing one so may actually be faster as they have improved in the 400m. This may emphasise the need for frequent testing on 100m and 200m times on 400m athletes in the UK.
+
+#ranking400m.py
+Gets all time 400m bests in the uk and puts them into a list.
+
+#pb_one_two.py
+Uses selenium to select on each individual athlete in the all time 400m
+list and get their 100m and 200m personal bests. Populates them into a list.
+
+#correlation.py
+Plots correlation matrix using 100m, 200m and 400m lists and saves it as a png.
+
+
+
 
 # Note:
 data population up to athlete 45
